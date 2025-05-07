@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BttLesson03", "BttLesson03\BttLesson03.csproj", "{FE0319EF-16DB-45D9-885A-AE9AE876D447}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE0319EF-16DB-45D9-885A-AE9AE876D447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE0319EF-16DB-45D9-885A-AE9AE876D447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE0319EF-16DB-45D9-885A-AE9AE876D447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE0319EF-16DB-45D9-885A-AE9AE876D447}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A6A3395-BF07-49CC-A630-81FEDC80B5EC}
+	EndGlobalSection
+EndGlobal
