@@ -1,0 +1,56 @@
+﻿@model BttLesson04.Models.BttBook
+
+@{
+    ViewData["Title"] = "Thêm mới sách";
+}
+
+<h1>Thêm mới sách</h1>
+
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="BttCreateSubmit" method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label asp-for="BttTitle"></label>
+                <input asp-for="BttTitle" class="form-control" />
+                <span asp-validation-for="BttTitle" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="BttDescription"></label>
+                <textarea asp-for="BttDescription" class="form-control"></textarea>
+                <span asp-validation-for="BttDescription" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="BttImage"></label>
+                <input asp-for="BttImage" class="form-control" />
+                <span asp-validation-for="BttImage" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="BttPrice"></label>
+                <input asp-for="BttPrice" class="form-control" />
+                <span asp-validation-for="BttPrice" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="BttPage"></label>
+                <input asp-for="BttPage" class="form-control" />
+                <span asp-validation-for="BttPage" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Thêm" class="btn btn-primary" />
+                <a asp-controller="BttBook" asp-action="BttIndex" class="btn btn-secondary">Hủy</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

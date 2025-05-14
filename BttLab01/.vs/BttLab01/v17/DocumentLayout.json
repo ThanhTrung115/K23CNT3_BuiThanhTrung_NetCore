@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\hoc tap\\K23CNT3_BuiThanhTrung\\BttLab01\\",
+  "WorkspaceRootPath": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLab01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BC284F3-FCFD-4DE6-9188-D8812FE892C4}|BttLab01\\BttLab01.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung\\bttlab01\\bttlab01\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BC284F3-FCFD-4DE6-9188-D8812FE892C4}|BttLab01\\BttLab01.csproj|solutionrelative:bttlab01\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BC284F3-FCFD-4DE6-9188-D8812FE892C4}|BttLab01\\BttLab01.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung_netcore\\k23cnt3_buithanhtrung_netcore\\bttlab01\\bttlab01\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BC284F3-FCFD-4DE6-9188-D8812FE892C4}|BttLab01\\BttLab01.csproj|solutionrelative:bttlab01\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BC284F3-FCFD-4DE6-9188-D8812FE892C4}|BttLab01\\BttLab01.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung\\bttlab01\\bttlab01\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BC284F3-FCFD-4DE6-9188-D8812FE892C4}|BttLab01\\BttLab01.csproj|solutionrelative:bttlab01\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BC284F3-FCFD-4DE6-9188-D8812FE892C4}|BttLab01\\BttLab01.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung\\bttlab01\\bttlab01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7BC284F3-FCFD-4DE6-9188-D8812FE892C4}|BttLab01\\BttLab01.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung_netcore\\k23cnt3_buithanhtrung_netcore\\bttlab01\\bttlab01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7BC284F3-FCFD-4DE6-9188-D8812FE892C4}|BttLab01\\BttLab01.csproj|solutionrelative:bttlab01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BC284F3-FCFD-4DE6-9188-D8812FE892C4}|BttLab01\\BttLab01.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung\\bttlab01\\bttlab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BC284F3-FCFD-4DE6-9188-D8812FE892C4}|BttLab01\\BttLab01.csproj|solutionrelative:bttlab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BC284F3-FCFD-4DE6-9188-D8812FE892C4}|BttLab01\\BttLab01.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung_netcore\\k23cnt3_buithanhtrung_netcore\\bttlab01\\bttlab01\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC284F3-FCFD-4DE6-9188-D8812FE892C4}|BttLab01\\BttLab01.csproj|solutionrelative:bttlab01\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BC284F3-FCFD-4DE6-9188-D8812FE892C4}|BttLab01\\BttLab01.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung\\bttlab01\\bttlab01\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7BC284F3-FCFD-4DE6-9188-D8812FE892C4}|BttLab01\\BttLab01.csproj|solutionrelative:bttlab01\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BC284F3-FCFD-4DE6-9188-D8812FE892C4}|BttLab01\\BttLab01.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung\\bttlab01\\bttlab01\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7BC284F3-FCFD-4DE6-9188-D8812FE892C4}|BttLab01\\BttLab01.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung_netcore\\k23cnt3_buithanhtrung_netcore\\bttlab01\\bttlab01\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BC284F3-FCFD-4DE6-9188-D8812FE892C4}|BttLab01\\BttLab01.csproj|solutionrelative:bttlab01\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BC284F3-FCFD-4DE6-9188-D8812FE892C4}|BttLab01\\BttLab01.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung\\bttlab01\\bttlab01\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7BC284F3-FCFD-4DE6-9188-D8812FE892C4}|BttLab01\\BttLab01.csproj|solutionrelative:bttlab01\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7BC284F3-FCFD-4DE6-9188-D8812FE892C4}|BttLab01\\BttLab01.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung_netcore\\k23cnt3_buithanhtrung_netcore\\bttlab01\\bttlab01\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC284F3-FCFD-4DE6-9188-D8812FE892C4}|BttLab01\\BttLab01.csproj|solutionrelative:bttlab01\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC284F3-FCFD-4DE6-9188-D8812FE892C4}|BttLab01\\BttLab01.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung_netcore\\k23cnt3_buithanhtrung_netcore\\bttlab01\\bttlab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC284F3-FCFD-4DE6-9188-D8812FE892C4}|BttLab01\\BttLab01.csproj|solutionrelative:bttlab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC284F3-FCFD-4DE6-9188-D8812FE892C4}|BttLab01\\BttLab01.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung_netcore\\k23cnt3_buithanhtrung_netcore\\bttlab01\\bttlab01\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BC284F3-FCFD-4DE6-9188-D8812FE892C4}|BttLab01\\BttLab01.csproj|solutionrelative:bttlab01\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,15 +38,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\hoc tap\\K23CNT3_BuiThanhTrung\\BttLab01\\BttLab01\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLab01\\BttLab01\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "BttLab01\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\hoc tap\\K23CNT3_BuiThanhTrung\\BttLab01\\BttLab01\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLab01\\BttLab01\\Controllers\\ProductController.cs",
               "RelativeToolTip": "BttLab01\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -55,11 +55,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\hoc tap\\K23CNT3_BuiThanhTrung\\BttLab01\\BttLab01\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLab01\\BttLab01\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BttLab01\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\hoc tap\\K23CNT3_BuiThanhTrung\\BttLab01\\BttLab01\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLab01\\BttLab01\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "BttLab01\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -68,37 +68,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\hoc tap\\K23CNT3_BuiThanhTrung\\BttLab01\\BttLab01\\Program.cs",
+              "DocumentMoniker": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLab01\\BttLab01\\Program.cs",
               "RelativeDocumentMoniker": "BttLab01\\Program.cs",
-              "ToolTip": "D:\\hoc tap\\K23CNT3_BuiThanhTrung\\BttLab01\\BttLab01\\Program.cs",
+              "ToolTip": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLab01\\BttLab01\\Program.cs",
               "RelativeToolTip": "BttLab01\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T03:37:00.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T03:37:00.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Profile.cshtml",
-              "DocumentMoniker": "D:\\hoc tap\\K23CNT3_BuiThanhTrung\\BttLab01\\BttLab01\\Views\\Account\\Profile.cshtml",
+              "DocumentMoniker": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLab01\\BttLab01\\Views\\Account\\Profile.cshtml",
               "RelativeDocumentMoniker": "BttLab01\\Views\\Account\\Profile.cshtml",
-              "ToolTip": "D:\\hoc tap\\K23CNT3_BuiThanhTrung\\BttLab01\\BttLab01\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLab01\\BttLab01\\Views\\Account\\Profile.cshtml",
               "RelativeToolTip": "BttLab01\\Views\\Account\\Profile.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T03:34:12.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T03:34:12.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Account.cs",
-              "DocumentMoniker": "D:\\hoc tap\\K23CNT3_BuiThanhTrung\\BttLab01\\BttLab01\\Models\\Account.cs",
+              "DocumentMoniker": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLab01\\BttLab01\\Models\\Account.cs",
               "RelativeDocumentMoniker": "BttLab01\\Models\\Account.cs",
-              "ToolTip": "D:\\hoc tap\\K23CNT3_BuiThanhTrung\\BttLab01\\BttLab01\\Models\\Account.cs",
+              "ToolTip": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLab01\\BttLab01\\Models\\Account.cs",
               "RelativeToolTip": "BttLab01\\Models\\Account.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,29 +105,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\hoc tap\\K23CNT3_BuiThanhTrung\\BttLab01\\BttLab01\\Views\\Account\\Index.cshtml",
+              "DocumentMoniker": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLab01\\BttLab01\\Views\\Account\\Index.cshtml",
               "RelativeDocumentMoniker": "BttLab01\\Views\\Account\\Index.cshtml",
-              "ToolTip": "D:\\hoc tap\\K23CNT3_BuiThanhTrung\\BttLab01\\BttLab01\\Views\\Account\\Index.cshtml",
+              "ToolTip": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLab01\\BttLab01\\Views\\Account\\Index.cshtml",
               "RelativeToolTip": "BttLab01\\Views\\Account\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-07T03:07:19.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\hoc tap\\K23CNT3_BuiThanhTrung\\BttLab01\\BttLab01\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLab01\\BttLab01\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "BttLab01\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\hoc tap\\K23CNT3_BuiThanhTrung\\BttLab01\\BttLab01\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLab01\\BttLab01\\Controllers\\AccountController.cs",
               "RelativeToolTip": "BttLab01\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T03:07:00.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T03:07:00.233Z"
             }
           ]
         }

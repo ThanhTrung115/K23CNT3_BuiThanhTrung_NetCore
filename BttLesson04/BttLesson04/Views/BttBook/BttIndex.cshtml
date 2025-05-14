@@ -1,0 +1,33 @@
+﻿@model IEnumerable<BttLesson04.Models.BttBook>
+@{
+    ViewData["Title"] = "List Book";
+}
+
+<h1>Thông tin các cuốn sách</h1>
+<a href="/Bttbook/Bttcreate" class="btn btn-primary">Thêm mới</a>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>BookID</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Image</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(BttBook bttItem in Model)
+        {
+            <tr>
+                <td>@bttItem.BttId</td>
+                <td>@bttItem.BttTitle</td>
+                <td>@bttItem.BttDescription</td>
+                <td><img src="@bttItem.BttImage" alt="@bttItem.BttTitle" style="width:100px; height:150px;" /></td>
+                <td>@bttItem.BttPrice</td>
+                <td>
+                    <a asp-action="BttEdit" asp-route-id="@bttItem.BttId" class="btn btn-primary">Sửa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD437FC3-10EC-4FB5-9C31-464C27C89DC8}|BttLesson04\\BttLesson04.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung_netcore\\k23cnt3_buithanhtrung_netcore\\bttlesson04\\bttlesson04\\views\\bttbook\\bttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD437FC3-10EC-4FB5-9C31-464C27C89DC8}|BttLesson04\\BttLesson04.csproj|solutionrelative:bttlesson04\\views\\bttbook\\bttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD437FC3-10EC-4FB5-9C31-464C27C89DC8}|BttLesson04\\BttLesson04.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung_netcore\\k23cnt3_buithanhtrung_netcore\\bttlesson04\\bttlesson04\\views\\bttbook\\bttcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD437FC3-10EC-4FB5-9C31-464C27C89DC8}|BttLesson04\\BttLesson04.csproj|solutionrelative:bttlesson04\\views\\bttbook\\bttcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD437FC3-10EC-4FB5-9C31-464C27C89DC8}|BttLesson04\\BttLesson04.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung_netcore\\k23cnt3_buithanhtrung_netcore\\bttlesson04\\bttlesson04\\models\\bttbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD437FC3-10EC-4FB5-9C31-464C27C89DC8}|BttLesson04\\BttLesson04.csproj|solutionrelative:bttlesson04\\models\\bttbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD437FC3-10EC-4FB5-9C31-464C27C89DC8}|BttLesson04\\BttLesson04.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung_netcore\\k23cnt3_buithanhtrung_netcore\\bttlesson04\\bttlesson04\\controllers\\bttbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD437FC3-10EC-4FB5-9C31-464C27C89DC8}|BttLesson04\\BttLesson04.csproj|solutionrelative:bttlesson04\\controllers\\bttbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD437FC3-10EC-4FB5-9C31-464C27C89DC8}|BttLesson04\\BttLesson04.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung_netcore\\k23cnt3_buithanhtrung_netcore\\bttlesson04\\bttlesson04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD437FC3-10EC-4FB5-9C31-464C27C89DC8}|BttLesson04\\BttLesson04.csproj|solutionrelative:bttlesson04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD437FC3-10EC-4FB5-9C31-464C27C89DC8}|BttLesson04\\BttLesson04.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung_netcore\\k23cnt3_buithanhtrung_netcore\\bttlesson04\\bttlesson04\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD437FC3-10EC-4FB5-9C31-464C27C89DC8}|BttLesson04\\BttLesson04.csproj|solutionrelative:bttlesson04\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD437FC3-10EC-4FB5-9C31-464C27C89DC8}|BttLesson04\\BttLesson04.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung_netcore\\k23cnt3_buithanhtrung_netcore\\bttlesson04\\bttlesson04\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD437FC3-10EC-4FB5-9C31-464C27C89DC8}|BttLesson04\\BttLesson04.csproj|solutionrelative:bttlesson04\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD437FC3-10EC-4FB5-9C31-464C27C89DC8}|BttLesson04\\BttLesson04.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung_netcore\\k23cnt3_buithanhtrung_netcore\\bttlesson04\\bttlesson04\\controllers\\btthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD437FC3-10EC-4FB5-9C31-464C27C89DC8}|BttLesson04\\BttLesson04.csproj|solutionrelative:bttlesson04\\controllers\\btthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD437FC3-10EC-4FB5-9C31-464C27C89DC8}|BttLesson04\\BttLesson04.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung_netcore\\k23cnt3_buithanhtrung_netcore\\bttlesson04\\bttlesson04\\views\\shared\\_bttlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD437FC3-10EC-4FB5-9C31-464C27C89DC8}|BttLesson04\\BttLesson04.csproj|solutionrelative:bttlesson04\\views\\shared\\_bttlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BttCreate.cshtml",
+              "DocumentMoniker": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson04\\BttLesson04\\Views\\BttBook\\BttCreate.cshtml",
+              "RelativeDocumentMoniker": "BttLesson04\\Views\\BttBook\\BttCreate.cshtml",
+              "ToolTip": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson04\\BttLesson04\\Views\\BttBook\\BttCreate.cshtml",
+              "RelativeToolTip": "BttLesson04\\Views\\BttBook\\BttCreate.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T02:40:28.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BttIndex.cshtml",
+              "DocumentMoniker": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson04\\BttLesson04\\Views\\BttBook\\BttIndex.cshtml",
+              "RelativeDocumentMoniker": "BttLesson04\\Views\\BttBook\\BttIndex.cshtml",
+              "ToolTip": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson04\\BttLesson04\\Views\\BttBook\\BttIndex.cshtml",
+              "RelativeToolTip": "BttLesson04\\Views\\BttBook\\BttIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T02:22:41.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BttBookController.cs",
+              "DocumentMoniker": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson04\\BttLesson04\\Controllers\\BttBookController.cs",
+              "RelativeDocumentMoniker": "BttLesson04\\Controllers\\BttBookController.cs",
+              "ToolTip": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson04\\BttLesson04\\Controllers\\BttBookController.cs",
+              "RelativeToolTip": "BttLesson04\\Controllers\\BttBookController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:35:27.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BttBook.cs",
+              "DocumentMoniker": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson04\\BttLesson04\\Models\\BttBook.cs",
+              "RelativeDocumentMoniker": "BttLesson04\\Models\\BttBook.cs",
+              "ToolTip": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson04\\BttLesson04\\Models\\BttBook.cs",
+              "RelativeToolTip": "BttLesson04\\Models\\BttBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwEIAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:31:04.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson04\\BttLesson04\\Program.cs",
+              "RelativeDocumentMoniker": "BttLesson04\\Program.cs",
+              "ToolTip": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson04\\BttLesson04\\Program.cs",
+              "RelativeToolTip": "BttLesson04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:27:43.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BttHomeController.cs",
+              "DocumentMoniker": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson04\\BttLesson04\\Controllers\\BttHomeController.cs",
+              "RelativeDocumentMoniker": "BttLesson04\\Controllers\\BttHomeController.cs",
+              "ToolTip": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson04\\BttLesson04\\Controllers\\BttHomeController.cs",
+              "RelativeToolTip": "BttLesson04\\Controllers\\BttHomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:25:24.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson04\\BttLesson04\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "BttLesson04\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson04\\BttLesson04\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "BttLesson04\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T01:24:07.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson04\\BttLesson04\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "BttLesson04\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson04\\BttLesson04\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "BttLesson04\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T01:23:54.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_BttLayout.cshtml",
+              "DocumentMoniker": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson04\\BttLesson04\\Views\\Shared\\_BttLayout.cshtml",
+              "RelativeDocumentMoniker": "BttLesson04\\Views\\Shared\\_BttLayout.cshtml",
+              "ToolTip": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson04\\BttLesson04\\Views\\Shared\\_BttLayout.cshtml",
+              "RelativeToolTip": "BttLesson04\\Views\\Shared\\_BttLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T01:21:27.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

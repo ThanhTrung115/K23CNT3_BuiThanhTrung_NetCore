@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\hoc tap\\K23CNT3_BuiThanhTrung\\BttLab01\\BttLab01\\BttLab01.csproj": {}
+    "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLab01\\BttLab01\\BttLab01.csproj": {}
   },
   "projects": {
-    "D:\\hoc tap\\K23CNT3_BuiThanhTrung\\BttLab01\\BttLab01\\BttLab01.csproj": {
+    "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLab01\\BttLab01\\BttLab01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\hoc tap\\K23CNT3_BuiThanhTrung\\BttLab01\\BttLab01\\BttLab01.csproj",
+        "projectUniqueName": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLab01\\BttLab01\\BttLab01.csproj",
         "projectName": "BttLab01",
-        "projectPath": "D:\\hoc tap\\K23CNT3_BuiThanhTrung\\BttLab01\\BttLab01\\BttLab01.csproj",
+        "projectPath": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLab01\\BttLab01\\BttLab01.csproj",
         "packagesPath": "C:\\Users\\Trung\\.nuget\\packages\\",
-        "outputPath": "D:\\hoc tap\\K23CNT3_BuiThanhTrung\\BttLab01\\BttLab01\\obj\\",
+        "outputPath": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLab01\\BttLab01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

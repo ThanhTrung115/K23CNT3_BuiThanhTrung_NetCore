@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BttLab01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62917fd28a5c8923d11e76e01677b27f1b30c399")]
 [assembly: System.Reflection.AssemblyProductAttribute("BttLab01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BttLab01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
