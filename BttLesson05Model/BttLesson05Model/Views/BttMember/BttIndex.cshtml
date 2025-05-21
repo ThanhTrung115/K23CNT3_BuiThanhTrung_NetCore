@@ -1,0 +1,29 @@
+﻿@model IEnumerable<BttLesson05Model.Models.DataModels.BttMember>
+@{
+	ViewData["Title"] = "BttIndex";
+}
+
+<h1>Danh sách member</h1>
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Member ID</th>
+            <th>Member UserName</th>
+            <th>Member Password</th>
+            <th>Member FullName</th>
+            <th>Member Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var bttItem in Model)
+        {
+            <tr>
+                <td>@bttItem.BttMemberId</td>
+                <td>@bttItem.BttUserName</td>
+                <td>@bttItem.BttPassword</td>
+                <td>@bttItem.BttFullName</td>
+                <td>@bttItem.BttEmail</td>
+            </tr>
+        }
+    </tbody>
+</table>
