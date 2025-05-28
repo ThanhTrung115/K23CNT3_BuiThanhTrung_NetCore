@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BttLab06
+build_property.RootNamespace = BttLab06
+build_property.ProjectDir = D:\hoc tap\K23CNT3_BuiThanhTrung_NetCore\K23CNT3_BuiThanhTrung_NetCore\BttLab06\BttLab06\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\hoc tap\K23CNT3_BuiThanhTrung_NetCore\K23CNT3_BuiThanhTrung_NetCore\BttLab06\BttLab06
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/hoc tap/K23CNT3_BuiThanhTrung_NetCore/K23CNT3_BuiThanhTrung_NetCore/BttLab06/BttLab06/Views/BttEmployee/BttCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnR0RW1wbG95ZWVcQnR0Q3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoc tap/K23CNT3_BuiThanhTrung_NetCore/K23CNT3_BuiThanhTrung_NetCore/BttLab06/BttLab06/Views/BttEmployee/BttEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnR0RW1wbG95ZWVcQnR0RWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoc tap/K23CNT3_BuiThanhTrung_NetCore/K23CNT3_BuiThanhTrung_NetCore/BttLab06/BttLab06/Views/BttEmployee/BttIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnR0RW1wbG95ZWVcQnR0SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoc tap/K23CNT3_BuiThanhTrung_NetCore/K23CNT3_BuiThanhTrung_NetCore/BttLab06/BttLab06/Views/BttHome/BttAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnR0SG9tZVxCdHRBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoc tap/K23CNT3_BuiThanhTrung_NetCore/K23CNT3_BuiThanhTrung_NetCore/BttLab06/BttLab06/Views/BttHome/BttIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnR0SG9tZVxCdHRJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoc tap/K23CNT3_BuiThanhTrung_NetCore/K23CNT3_BuiThanhTrung_NetCore/BttLab06/BttLab06/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoc tap/K23CNT3_BuiThanhTrung_NetCore/K23CNT3_BuiThanhTrung_NetCore/BttLab06/BttLab06/Views/Shared/_BttNavBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CdHROYXZCYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoc tap/K23CNT3_BuiThanhTrung_NetCore/K23CNT3_BuiThanhTrung_NetCore/BttLab06/BttLab06/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoc tap/K23CNT3_BuiThanhTrung_NetCore/K23CNT3_BuiThanhTrung_NetCore/BttLab06/BttLab06/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoc tap/K23CNT3_BuiThanhTrung_NetCore/K23CNT3_BuiThanhTrung_NetCore/BttLab06/BttLab06/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/hoc tap/K23CNT3_BuiThanhTrung_NetCore/K23CNT3_BuiThanhTrung_NetCore/BttLab06/BttLab06/Views/Shared/_BttLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CdHRMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jh2rwjkg1w

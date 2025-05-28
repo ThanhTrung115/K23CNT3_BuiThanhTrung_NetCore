@@ -1,0 +1,65 @@
+﻿@model IEnumerable<BttLab06.Models.BttEmployee>
+
+@{
+    ViewData["Title"] = "Danh sách nhân viên";
+}
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center">
+        <h1 class="text-center mb-4">Danh sách nhân viên</h1>
+        <a asp-action="BttCreate" class="btn btn-primary">Thêm mới</a>
+    </div>
+
+    <table class="table table-bordered table-hover table-striped">
+        <thead class="table-dark text-center">
+            <tr>
+                <th>ID</th>
+                <th>Họ tên</th>
+                <th>Ngày sinh</th>
+                <th>Email</th>
+                <th>Điện thoại</th>
+                <th>Lương</th>
+                <th>Trạng thái</th>
+                <th>Thao tác</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var bttEmp in Model)
+            {
+                <tr>
+                    <td class="text-center">@bttEmp.BttId</td>
+                    <td>@bttEmp.BttName</td>
+                    <td>@bttEmp.BttBirthDay.ToString("dd/MM/yyyy")</td>
+                    <td>@bttEmp.BttEmail</td>
+                    <td>@bttEmp.BttPhone</td>
+                    <td class="text-end">@bttEmp.BttSalary.ToString("N0") đ</td>
+                    <td class="text-center">
+                        @if (bttEmp.BttStatus)
+                        {
+                            <span class="badge bg-success">Đang làm</span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-secondary">Nghỉ việc</span>
+                        }
+                    </td>
+                    <td class="text-center">
+                        <a asp-action="BttEdit" asp-route-id="@bttEmp.BttId" class="btn btn-sm btn-warning">Sửa</a>
+                        <form asp-action="BttDelete" asp-route-id="@bttEmp.BttId" method="post"
+                              onsubmit="return confirm('Bạn có chắc chắn muốn xóa nhân viên [@bttEmp.BttName] (ID: @bttEmp.BttId) không?');"
+                              style="display:inline;">
+                            @Html.AntiForgeryToken()
+                            <button type="submit" class="btn btn-sm btn-danger">Xóa</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

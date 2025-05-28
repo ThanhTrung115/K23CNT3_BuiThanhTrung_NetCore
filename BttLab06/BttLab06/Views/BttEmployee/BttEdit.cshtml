@@ -1,0 +1,71 @@
+﻿@model BttLab06.Models.BttEmployee
+
+@{
+    ViewData["Title"] = "Chỉnh sửa thông tin nhân viên";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">Chỉnh sửa thông tin nhân viên</h2>
+
+    <form asp-action="BttEditSubmit" method="post">
+        <input type="hidden" asp-for="BttId" />
+
+        <div class="mb-3">
+            <div class="input-group">
+                <span class="input-group-text">Họ tên</span>
+                <input asp-for="BttName" class="form-control" placeholder="Nhập họ tên" />
+            </div>
+            <span asp-validation-for="BttName" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <div class="input-group">
+                <span class="input-group-text">Ngày sinh</span>
+                <input asp-for="BttBirthDay" type="date" class="form-control" />
+            </div>
+            <span asp-validation-for="BttBirthDay" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <div class="input-group">
+                <span class="input-group-text">Email</span>
+                <input asp-for="BttEmail" class="form-control" placeholder="Email nhân viên" />
+            </div>
+            <span asp-validation-for="BttEmail" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <div class="input-group">
+                <span class="input-group-text">Số điện thoại</span>
+                <input asp-for="BttPhone" class="form-control" placeholder="Số điện thoại" />
+            </div>
+            <span asp-validation-for="BttPhone" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <div class="input-group">
+                <span class="input-group-text">Lương cơ bản</span>
+                <input asp-for="BttSalary" class="form-control" placeholder="Lương cơ bản" type="number" step="0.01" />
+            </div>
+            <span asp-validation-for="BttSalary" class="text-danger"></span>
+        </div>
+
+        <div class="mb-4">
+            <label for="BttStatus" class="form-label">Trạng thái</label>
+            <select asp-for="BttStatus" id="BttStatus" class="form-select">
+                <option value="true">Đang làm</option>
+                <option value="false">Nghỉ việc</option>
+            </select>
+            <span asp-validation-for="BttStatus" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Cập nhật</button>
+        <a asp-action="BttIndex" class="btn btn-secondary">Quay lại</a>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
