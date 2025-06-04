@@ -1,0 +1,71 @@
+﻿@model IEnumerable<BttLesson07.Models.BttEmployee>
+
+@{
+    ViewData["Title"] = "DANH SÁCH NHÂN VIÊN";
+}
+
+<h1>DANH SÁCH NHÂN VIÊN</h1>
+
+<p>
+    <a asp-action="BttCreate" class="btn btn-primary">Thêm mới</a>
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.BttId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BttName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BttBirthDay)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BttEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BttPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BttSalary)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BttStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.BttId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BttName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BttBirthDay)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BttEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BttPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BttSalary)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BttStatus)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "BttEdit", new { id = item.BttId }) |
+                @Html.ActionLink("Details", "BttDetails", new { id = item.BttId }) |
+                @Html.ActionLink("Delete", "BttDelete", new { id = item.BttId })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

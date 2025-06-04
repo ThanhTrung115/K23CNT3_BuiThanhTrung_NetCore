@@ -1,0 +1,59 @@
+﻿@model BttLesson07.Models.BttEmployee
+
+@{
+    ViewData["Title"] = "THÊM MỚI NHÂN VIÊN";
+}
+
+<h1>THÊM MỚI NHÂN VIÊN</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="BttCreate">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="BttId" class="control-label"></label>
+                <input asp-for="BttId" class="form-control" />
+                <span asp-validation-for="BttId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BttName" class="control-label"></label>
+                <input asp-for="BttName" class="form-control" />
+                <span asp-validation-for="BttName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BttBirthDay" class="control-label"></label>
+                <input asp-for="BttBirthDay" class="form-control" />
+                <span asp-validation-for="BttBirthDay" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BttEmail" class="control-label"></label>
+                <input asp-for="BttEmail" class="form-control" />
+                <span asp-validation-for="BttEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BttPhone" class="control-label"></label>
+                <input asp-for="BttPhone" class="form-control" />
+                <span asp-validation-for="BttPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BttSalary" class="control-label"></label>
+                <input asp-for="BttSalary" class="form-control" />
+                <span asp-validation-for="BttSalary" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="BttStatus" /> @Html.DisplayNameFor(model => model.BttStatus)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="bTTIndex">Back to List</a>
+</div>
+

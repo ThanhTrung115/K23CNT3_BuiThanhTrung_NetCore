@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BttLesson07.props" />
+</Project>
