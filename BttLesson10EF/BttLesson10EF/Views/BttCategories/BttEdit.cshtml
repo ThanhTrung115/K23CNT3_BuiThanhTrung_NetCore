@@ -1,0 +1,44 @@
+﻿@model BttLesson10EF.Models.Category
+
+@{
+    ViewData["Title"] = "Sửa thông tin danh mục loại";
+}
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="BttEdit">
+            <div class="card">
+                <div class="card-header">
+                    <h1>@ViewData["Title"]</h1>
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                </div>
+                <div class="card-body">
+                    <div class="form-group">
+                        <label asp-for="CateId" class="control-label"></label>
+                        <input asp-for="CateId" class="form-control" readonly/>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="CateName" class="control-label"></label>
+                        <input asp-for="CateName" class="form-control" />
+                        <span asp-validation-for="CateName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="CateStaus" class="control-label"></label>
+                        <input asp-for="CateStaus" class="form-control" />
+                        <span asp-validation-for="CateStaus" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="card-footer">
+                    <div class="form-group">
+                        <input type="submit" value="Ghi lại" value="Create" class="btn btn-primary" name="btnBttUpdate" />
+                        <a asp-action="BttIndex" class="btn btn-secondary">Quay lại</a>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

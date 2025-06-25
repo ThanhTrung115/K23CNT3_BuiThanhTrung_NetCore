@@ -1,0 +1,54 @@
+﻿@model IEnumerable<BttLesson10EF.Models.Category>
+
+@{
+    ViewData["Title"] = "Danh mục loại";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a asp-action="BttCreate" class="btn btn-primary">Thêm mới</a>
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CateId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CateName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CateStaus)
+            </th>
+            <th>Chức năng</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CateId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CateName)
+            </td>
+            <td>
+                    @if (item.CateStaus == true)
+                    {
+                        <text>Hiển thị</text>
+                    }
+                    else
+                    {
+                        <text>Tạm khóa</text>
+                    }
+            </td>
+            <td>
+                <a asp-action="BttEdit" asp-route-bttId="@item.CateId">Edit</a> |
+                <a asp-action="BttDetails" asp-route-bttId="@item.CateId">Details</a> |
+                <a asp-action="BttDelete" asp-route-bttId="@item.CateId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
