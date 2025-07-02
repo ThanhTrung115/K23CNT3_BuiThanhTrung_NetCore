@@ -66,8 +66,7 @@
               "RelativeToolTip": "BttLesson10EF\\Views\\BttCategories\\BttDelete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-25T03:00:27.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T03:00:27.333Z"
             },
             {
               "$type": "Document",
@@ -79,8 +78,7 @@
               "RelativeToolTip": "BttLesson10EF\\Views\\BttCategories\\BttDetails.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-25T02:55:54.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T02:55:54.746Z"
             },
             {
               "$type": "Document",
@@ -92,8 +90,7 @@
               "RelativeToolTip": "BttLesson10EF\\Views\\BttCategories\\BttEdit.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-25T02:55:43.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T02:55:43.681Z"
             },
             {
               "$type": "Document",
@@ -105,8 +102,7 @@
               "RelativeToolTip": "BttLesson10EF\\Views\\BttCategories\\BttCreate.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-25T02:41:16.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T02:41:16.013Z"
             },
             {
               "$type": "Document",
@@ -116,7 +112,7 @@
               "RelativeDocumentMoniker": "BttLesson10EF\\Views\\BttCategories\\BttIndex.cshtml",
               "ToolTip": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson10EF\\BttLesson10EF\\Views\\BttCategories\\BttIndex.cshtml",
               "RelativeToolTip": "BttLesson10EF\\Views\\BttCategories\\BttIndex.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-25T02:36:34.474Z",
               "EditorCaption": ""
@@ -131,8 +127,7 @@
               "RelativeToolTip": "BttLesson10EF\\Controllers\\BttCategoriesController.cs",
               "ViewState": "AgIAAHEAAAAAAAAAAAAuwIQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T02:36:16.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T02:36:16.514Z"
             },
             {
               "$type": "Document",
@@ -144,8 +139,7 @@
               "RelativeToolTip": "BttLesson10EF\\Controllers\\BttHomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T02:35:44.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T02:35:44.744Z"
             },
             {
               "$type": "Document",
@@ -157,8 +151,7 @@
               "RelativeToolTip": "BttLesson10EF\\Views\\Shared\\_BttLayout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-25T02:34:44.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T02:34:44.928Z"
             },
             {
               "$type": "Document",
@@ -170,8 +163,7 @@
               "RelativeToolTip": "BttLesson10EF\\Views\\Shared\\_BttNavbar.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-25T02:34:12.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T02:34:12.704Z"
             },
             {
               "$type": "Document",
@@ -183,8 +175,7 @@
               "RelativeToolTip": "BttLesson10EF\\Views\\BttHome\\BttIndex.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-25T02:33:58.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T02:33:58.011Z"
             },
             {
               "$type": "Document",
@@ -196,8 +187,7 @@
               "RelativeToolTip": "BttLesson10EF\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T02:15:55.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T02:15:55.744Z"
             }
           ]
         }

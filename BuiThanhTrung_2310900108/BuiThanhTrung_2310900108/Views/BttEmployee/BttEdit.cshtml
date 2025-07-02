@@ -1,0 +1,45 @@
+﻿@model BuiThanhTrung_2310900108.Models.BttEmployee
+
+@{
+    ViewData["Title"] = "SỬA THÔNG TIN NHÂN VIÊN";
+    Layout = "~/Views/Shared/_BttLayout.cshtml";
+}
+
+<h1>SỬA THÔNG TIN NHÂN VIÊN</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="BttEdit" asp-route-id="@Model.bttEmpId">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="bttEmpId" class="control-label"></label>
+                <input asp-for="bttEmpId" class="form-control" readonly/>
+                <span asp-validation-for="bttEmpId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="bttEmpName" class="control-label"></label>
+                <input asp-for="bttEmpName" class="form-control" />
+                <span asp-validation-for="bttEmpName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="bttEmpLevel" class="control-label"></label>
+                <input asp-for="bttEmpLevel" class="form-control" />
+                <span asp-validation-for="bttEmpLevel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="bttEmpStartDate" class="control-label"></label>
+                <input asp-for="bttEmpStartDate" class="form-control" />
+                <span asp-validation-for="bttEmpStartDate" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="bttEmpStatus" /> @Html.DisplayNameFor(model => model.bttEmpStatus)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" /> |
+                <a asp-action="BttIndex" class="btn btn-secondary">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>

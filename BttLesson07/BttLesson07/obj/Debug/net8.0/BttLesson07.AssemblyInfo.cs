@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BttLesson07")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7502e8f005bfeb6f665d7934f0f52b1b423d93bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e8ba5d95d8b36f4fd68fe6914589e7856f288c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("BttLesson07")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BttLesson07")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

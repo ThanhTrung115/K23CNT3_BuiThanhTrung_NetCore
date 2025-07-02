@@ -1,0 +1,48 @@
+﻿@model BuiThanhTrung_2310900108.Models.BttEmployee
+
+@{
+    ViewData["Title"] = "THÔNG TIN NHÂN VIÊN";
+    Layout = "~/Views/Shared/_BttLayout.cshtml";
+}
+
+<h1>THÔNG TIN NHÂN VIÊN</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.bttEmpId)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.bttEmpId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.bttEmpName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.bttEmpName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.bttEmpLevel)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.bttEmpLevel)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.bttEmpStartDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.bttEmpStartDate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.bttEmpStatus)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.bttEmpStatus)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Edit", "BttEdit", new { id = Model.bttEmpId }) |
+    <a asp-action="BttIndex" class="btn btn-secondary">Back to List</a>
+</div>

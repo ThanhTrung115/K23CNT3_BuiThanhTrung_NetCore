@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{DAEA4C46-39C1-463B-AD8B-EBFECDC47814}|BttLesson07\\BttLesson07.csproj|solutionrelative:bttlesson07\\controllers\\bttemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DAEA4C46-39C1-463B-AD8B-EBFECDC47814}|BttLesson07\\BttLesson07.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung_netcore\\k23cnt3_buithanhtrung_netcore\\bttlesson07\\bttlesson07\\views\\bttemployee\\bttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAEA4C46-39C1-463B-AD8B-EBFECDC47814}|BttLesson07\\BttLesson07.csproj|solutionrelative:bttlesson07\\views\\bttemployee\\bttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEA4C46-39C1-463B-AD8B-EBFECDC47814}|BttLesson07\\BttLesson07.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung_netcore\\k23cnt3_buithanhtrung_netcore\\bttlesson07\\bttlesson07\\views\\btthome\\bttabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAEA4C46-39C1-463B-AD8B-EBFECDC47814}|BttLesson07\\BttLesson07.csproj|solutionrelative:bttlesson07\\views\\btthome\\bttabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEA4C46-39C1-463B-AD8B-EBFECDC47814}|BttLesson07\\BttLesson07.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung_netcore\\k23cnt3_buithanhtrung_netcore\\bttlesson07\\bttlesson07\\views\\bttemployee\\bttdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAEA4C46-39C1-463B-AD8B-EBFECDC47814}|BttLesson07\\BttLesson07.csproj|solutionrelative:bttlesson07\\views\\bttemployee\\bttdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DAEA4C46-39C1-463B-AD8B-EBFECDC47814}|BttLesson07\\BttLesson07.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung_netcore\\k23cnt3_buithanhtrung_netcore\\bttlesson07\\bttlesson07\\views\\bttemployee\\bttedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DAEA4C46-39C1-463B-AD8B-EBFECDC47814}|BttLesson07\\BttLesson07.csproj|solutionrelative:bttlesson07\\views\\bttemployee\\bttedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -15,20 +27,8 @@
       "RelativeMoniker": "D:0:0:{DAEA4C46-39C1-463B-AD8B-EBFECDC47814}|BttLesson07\\BttLesson07.csproj|solutionrelative:bttlesson07\\views\\bttemployee\\bttcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAEA4C46-39C1-463B-AD8B-EBFECDC47814}|BttLesson07\\BttLesson07.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung_netcore\\k23cnt3_buithanhtrung_netcore\\bttlesson07\\bttlesson07\\views\\bttemployee\\bttdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DAEA4C46-39C1-463B-AD8B-EBFECDC47814}|BttLesson07\\BttLesson07.csproj|solutionrelative:bttlesson07\\views\\bttemployee\\bttdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAEA4C46-39C1-463B-AD8B-EBFECDC47814}|BttLesson07\\BttLesson07.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung_netcore\\k23cnt3_buithanhtrung_netcore\\bttlesson07\\bttlesson07\\views\\bttemployee\\bttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DAEA4C46-39C1-463B-AD8B-EBFECDC47814}|BttLesson07\\BttLesson07.csproj|solutionrelative:bttlesson07\\views\\bttemployee\\bttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DAEA4C46-39C1-463B-AD8B-EBFECDC47814}|BttLesson07\\BttLesson07.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung_netcore\\k23cnt3_buithanhtrung_netcore\\bttlesson07\\bttlesson07\\views\\bttemployee\\bttdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DAEA4C46-39C1-463B-AD8B-EBFECDC47814}|BttLesson07\\BttLesson07.csproj|solutionrelative:bttlesson07\\views\\bttemployee\\bttdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAEA4C46-39C1-463B-AD8B-EBFECDC47814}|BttLesson07\\BttLesson07.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung_netcore\\k23cnt3_buithanhtrung_netcore\\bttlesson07\\bttlesson07\\views\\btthome\\bttabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DAEA4C46-39C1-463B-AD8B-EBFECDC47814}|BttLesson07\\BttLesson07.csproj|solutionrelative:bttlesson07\\views\\btthome\\bttabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DAEA4C46-39C1-463B-AD8B-EBFECDC47814}|BttLesson07\\BttLesson07.csproj|d:\\hoc tap\\k23cnt3_buithanhtrung_netcore\\k23cnt3_buithanhtrung_netcore\\bttlesson07\\bttlesson07\\models\\bttemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -72,59 +72,59 @@
               "RelativeDocumentMoniker": "BttLesson07\\Views\\BttEmployee\\BttDelete.cshtml",
               "ToolTip": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson07\\BttLesson07\\Views\\BttEmployee\\BttDelete.cshtml",
               "RelativeToolTip": "BttLesson07\\Views\\BttEmployee\\BttDelete.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADkAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-04T02:17:19.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "BttDetails.cshtml",
               "DocumentMoniker": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson07\\BttLesson07\\Views\\BttEmployee\\BttDetails.cshtml",
               "RelativeDocumentMoniker": "BttLesson07\\Views\\BttEmployee\\BttDetails.cshtml",
               "ToolTip": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson07\\BttLesson07\\Views\\BttEmployee\\BttDetails.cshtml",
               "RelativeToolTip": "BttLesson07\\Views\\BttEmployee\\BttDetails.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-04T02:06:29.02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "BttEdit.cshtml",
               "DocumentMoniker": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson07\\BttLesson07\\Views\\BttEmployee\\BttEdit.cshtml",
               "RelativeDocumentMoniker": "BttLesson07\\Views\\BttEmployee\\BttEdit.cshtml",
               "ToolTip": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson07\\BttLesson07\\Views\\BttEmployee\\BttEdit.cshtml",
               "RelativeToolTip": "BttLesson07\\Views\\BttEmployee\\BttEdit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-04T02:01:07.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "BttCreate.cshtml",
               "DocumentMoniker": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson07\\BttLesson07\\Views\\BttEmployee\\BttCreate.cshtml",
               "RelativeDocumentMoniker": "BttLesson07\\Views\\BttEmployee\\BttCreate.cshtml",
               "ToolTip": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson07\\BttLesson07\\Views\\BttEmployee\\BttCreate.cshtml",
               "RelativeToolTip": "BttLesson07\\Views\\BttEmployee\\BttCreate.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-04T01:55:49.715Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "BttIndex.cshtml",
               "DocumentMoniker": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson07\\BttLesson07\\Views\\BttEmployee\\BttIndex.cshtml",
               "RelativeDocumentMoniker": "BttLesson07\\Views\\BttEmployee\\BttIndex.cshtml",
               "ToolTip": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson07\\BttLesson07\\Views\\BttEmployee\\BttIndex.cshtml",
               "RelativeToolTip": "BttLesson07\\Views\\BttEmployee\\BttIndex.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAEEAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-04T01:50:16.305Z",
               "EditorCaption": ""
@@ -137,7 +137,7 @@
               "RelativeDocumentMoniker": "BttLesson07\\Controllers\\BttEmployeeController.cs",
               "ToolTip": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson07\\BttLesson07\\Controllers\\BttEmployeeController.cs",
               "RelativeToolTip": "BttLesson07\\Controllers\\BttEmployeeController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAkwEEAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAADwv18AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T01:47:22.03Z",
               "EditorCaption": ""
@@ -157,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "BttAbout.cshtml",
               "DocumentMoniker": "D:\\hoc tap\\K23CNT3_BuiThanhTrung_NetCore\\K23CNT3_BuiThanhTrung_NetCore\\BttLesson07\\BttLesson07\\Views\\BttHome\\BttAbout.cshtml",
               "RelativeDocumentMoniker": "BttLesson07\\Views\\BttHome\\BttAbout.cshtml",
@@ -178,8 +178,7 @@
               "RelativeToolTip": "BttLesson07\\Views\\BttHome\\BttIndex.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-04T01:41:12.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T01:41:12.831Z"
             },
             {
               "$type": "Document",
@@ -191,8 +190,7 @@
               "RelativeToolTip": "BttLesson07\\Views\\Shared\\_BttLayout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-04T01:39:45.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T01:39:45.195Z"
             },
             {
               "$type": "Document",
@@ -204,8 +202,7 @@
               "RelativeToolTip": "BttLesson07\\Views\\Shared\\_BttNavbar.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAACEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-04T01:39:19.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T01:39:19.752Z"
             },
             {
               "$type": "Document",
@@ -217,8 +214,7 @@
               "RelativeToolTip": "BttLesson07\\Controllers\\BttHomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T01:38:29.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T01:38:29.067Z"
             },
             {
               "$type": "Document",
@@ -230,8 +226,7 @@
               "RelativeToolTip": "BttLesson07\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T01:38:12.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T01:38:12.413Z"
             }
           ]
         }
