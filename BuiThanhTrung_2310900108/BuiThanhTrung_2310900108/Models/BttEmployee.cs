@@ -1,11 +1,17 @@
-﻿namespace BuiThanhTrung_2310900108.Models
+﻿using System;
+using System.Collections.Generic;
+
+namespace BuiThanhTrung_2310900108.Models;
+
+public partial class BttEmployee
 {
-    public class BttEmployee
-    {
-        public int bttEmpId { get; set; }
-        public string bttEmpName { get; set; }
-        public int bttEmpLevel { get; set; }
-        public DateTime bttEmpStartDate { get; set; }
-        public bool bttEmpStatus { get; set; }
-    }
+    public int BttEmpId { get; set; }
+
+    public string? BttEmpName { get; set; }
+
+    public int? BttEmpLevel { get; set; }
+
+    public DateOnly? BttEmpStartDate { get; set; }
+
+    public bool? BttEmpStatus { get; set; }
 }

@@ -1,0 +1,66 @@
+﻿@model IEnumerable<BuiThanhTrung_2310900108.Models.BttEmployee>
+
+@{
+    ViewData["Title"] = "Quản lý bài viết";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-2">
+    <h1>@ViewData["Title"]</h1>
+        <a asp-action="BttCreate" class="btn btn-primary">Thêm mới</a>
+</div>
+
+<table class="table table-bordered mt-2">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.BttEmpId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BttEmpName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BttEmpLevel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BttEmpStartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BttEmpStatus)
+            </th>
+            <th>Chức năng</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.BttEmpId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BttEmpName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BttEmpLevel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BttEmpStartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BttEmpStatus)
+            </td>
+                <td class="d-flex justify-content-between align-items-center">
+                    @if (item.BttEmpStatus==true){
+                        <span class="badge bg-success">Hiển thị</span>
+                    }else{
+                        <span class="badge bg-danger">Tạm ẩn</span>
+                    }
+            </td>
+            <td>
+                    <a asp-action="BttEdit" asp-route-BttEmpId="@item.BttEmpId" class="btn btn-success">Edit</a>
+                    <a asp-action="BttDetails" asp-route-BttEmpId="@item.BttEmpId" class="btn btn-info">Details</a>
+                    <a asp-action="BttDelete" asp-route-BttEmpId="@item.BttEmpId" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

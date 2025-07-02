@@ -1,0 +1,53 @@
+﻿@model BuiThanhTrung_2310900108.Models.BttEmployee
+
+@{
+    ViewData["Title"] = "Chỉnh sửa bài viết";
+}
+
+<form asp-action="TvcCreate" enctype="multipart/form-data">
+    <div class="card shadow-sm mx-auto" style="max-width: 600px;">
+        <div class="card-header">
+            <h2 class="text-center my-4">@ViewData["Title"]</h2>
+        </div>
+        <div class="card-body">
+            <form asp-action="Edit">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="BttEmpId" />
+                <div class="form-group">
+                    <label asp-for="BttEmpName" class="control-label"></label>
+                    <input asp-for="BttEmpName" class="form-control" />
+                    <span asp-validation-for="BttEmpName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="BttEmpLevel" class="control-label"></label>
+                    <input asp-for="BttEmpLevel" class="form-control" />
+                    <span asp-validation-for="BttEmpLevel" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="BttEmpStartDate" class="control-label"></label>
+                    <input asp-for="BttEmpStartDate" class="form-control" />
+                    <span asp-validation-for="BttEmpStartDate" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="BttEmpId" class="form-label fw-semibold"></label>
+                    <select asp-for="BttEmpId" class="form-select">
+                        <option value="">--Chọn trạng thái--</option>
+                        <option value="true">Hiển thị</option>
+                        <option value="false">Ẩn</option>
+                    </select>
+                    <span asp-validation-for="BttEmpId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <button type="submit" class="btn btn-primary mr-2">Ghi lại</button>
+                    <a asp-action="BttIndex">Quay lại danh sách</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

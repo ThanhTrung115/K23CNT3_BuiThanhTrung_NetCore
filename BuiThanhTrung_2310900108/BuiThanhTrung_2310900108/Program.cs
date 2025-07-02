@@ -1,7 +1,13 @@
+using BuiThanhTrung_2310900108.Models;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+var connectionString = builder.Configuration.GetConnectionString("BttDbConnect");
+builder.Services.AddDbContext<BttDbContext>(x => x.UseSqlServer(connectionString));
 
 var app = builder.Build();
 

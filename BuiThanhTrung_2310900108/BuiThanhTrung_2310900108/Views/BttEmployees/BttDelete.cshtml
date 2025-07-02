@@ -1,0 +1,25 @@
+﻿@model BuiThanhTrung_2310900108.Models.BttEmployee
+
+@{
+    ViewData["Title"] = "Xác nhận xóa thông tin bài viết";
+}
+
+<div class="card shadow-sm mx-auto" style="max-width: 600px;">
+    <div class="card-header">
+        <h2 class="text-center my-4">@ViewData["Title"]</h2>
+    </div>
+    <div class="card-body">
+        <p class="card-text"><strong>Họ và tên:</strong> @Model.BttEmpName</p>'
+        <p class="card-text">
+            <strong>Trạng thái:</strong>
+            @(Model.BttEmpStatus == true ? "Hiển thị" : "Tạm khóa")
+        </p>
+    </div>
+    <div class="card-footer">
+        <form asp-action="BttDelete">
+            <input type="hidden" asp-for="BttEmpId" />
+            <input type="submit" value="Xóa" class="btn btn-danger" /> |
+            <a asp-action="BttIndex">Quay lại danh sách</a>
+        </form>
+    </div>
+</div>
